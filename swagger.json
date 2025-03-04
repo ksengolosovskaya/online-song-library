@@ -1,0 +1,14 @@
+{
+    "swagger": "2.0",
+    "info": {
+        "description": "тестовое задание на позицию Go-разработчика",
+        "title": "Songs Api",
+        "contact": {
+            "email": "kseni.golosovskaya@gmail.com"
+        },
+        "version": "1.0"
+    },
+    "host": "localhost:8080",
+    "basePath": "/api/v1",
+    "paths": {}
+}
