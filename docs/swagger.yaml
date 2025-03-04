@@ -1,0 +1,10 @@
+basePath: /api/v1
+host: localhost:8080
+info:
+  contact:
+    email: kseni.golosovskaya@gmail.com
+  description: тестовое задание на позицию Go-разработчика
+  title: Songs Api
+  version: "1.0"
+paths: {}
+swagger: "2.0"
